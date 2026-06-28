@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# GameShrink generated files
+gameshrink/reports/*.md
+gameshrink/reports/*.txt
+
+gameshrink/workspace/*
+!gameshrink/workspace/.gitkeep
+
+# User preferences
+gameshrink/prefs.json
+
+# OS files
+Thumbs.db
+Desktop.ini
