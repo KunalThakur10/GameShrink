@@ -69,7 +69,7 @@ python main.py report
 Example
 
 ```bash
-python main.py scan "C:\Program Files (x86)\Steam\steamapps\common\Max Payne 3"
+python main.py scan "Your Desired Game Directory Here"
 ```
 
 ## Project Structure
